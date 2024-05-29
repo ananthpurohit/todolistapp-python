@@ -1,3 +1,3 @@
-# toDo list app - python
+# todo list app - python
 
-This is a python program which allows us to add, edit, show, or pop items from the list
+This is a simple python program which allows us to add, edit, show, or pop(remove) items from a list.
